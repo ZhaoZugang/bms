@@ -1,0 +1,33 @@
+.mt25{margin-top: 25px;}
+.mt15{margin-top: 15px;}
+.fl{float: left;}
+.clearfix:after{content: ".";display:block;visibility:hidden;height: 0;line-height: 0;clear: both;}
+.clearfix{*zoom: 1;}
+.hd{height: 75px;background: url(http://assets.dxycdn.com/app/bbs/bms/img/1.png) 0 0 no-repeat #413780;border-bottom: 5px solid #e6e6e6;}
+.hd h1{text-indent: -9999em;}
+.bd{padding: 0 20px;}
+.forum-hd{height: 39px;line-height: 39px;border: 1px solid #a1a1bd;background-color: #e0dff2;padding: 0 15px;font-size: 14px;font-weight: bold;}
+.tab1{width: 100px;text-align: center;font-size: 12px;height: 25px;line-height: 25px;}
+.tab2{width: 250px;padding: 0 10px;font-size: 12px;height: 25px;line-height: 25px;}
+.tab-active{color: #000;font-weight: bold;border: 1px solid #aaaaaa;border-bottom-color: #fff;margin-bottom: -1px;}
+.tab-bd{border: 1px solid #aaaaaa;padding: 20px;}
+table{width: 100%;font-size: 12px;color: #333;border: none;border-collapse: collapse;}
+table td{border: 1px solid #fff;padding: 5px 0;text-align: center;width: 6%}
+tr.even{background-color: #efefef}
+tr.odd{background-color: #fff;}
+td a:link{color: #333; text-decoration: none;border-bottom: 1px solid #333;padding-bottom: 1px;}
+td a:visited{color: #333;}
+.page-list{list-style: none;text-align: right;}
+.page-list li{display: inline;font-size: 12px;height: 18px;line-height: 18px;}
+.input-page{width: 3em;text-align: center;}
+.page-list li a{display: inline-block;*display: inline;*zoom: 1;height:18px;line-height: 18px;overflow: hidden;text-indent: -9999em;background: url(http://assets.dxycdn.com/app/bbs/bms/img/pager.png) 0 0 no-repeat;margin-bottom: -4px;}
+.page-list li a.first-page{width: 21px;background-position: 0 -23px;}
+.page-list li a.prev-page{width: 58px;background-position: 0 0;}
+.page-list li a.next-page{width: 58px;background-position: 0 -46px;}
+.page-list li a.last-page{width: 21px;background-position: 0 -69px;}
+.ranking-rule{padding: 15px 20px;background: #f7f7f7;border: 1px solid #dddddd;font: 12px/1.5em Arial, Tahoma, Helvetica, snas-serif;}
+.ranking-rule h3{font-weight: bold;}
+.ranking-rule li{list-style-type: none;}
+.copyright{padding: 15px 20px;border-top: 1px solid #ccc;font: 12px/1.5em Arial, Tahoma, Helvetica, snas-serif;text-align: center;}
+.copyright a:link{color: #666666;}
+.copyright a:visited{color: #666666;}
