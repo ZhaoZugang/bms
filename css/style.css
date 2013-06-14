@@ -31,3 +31,7 @@ td a:visited{color: #333;}
 .copyright{padding: 15px 20px;border-top: 1px solid #ccc;font: 12px/1.5em Arial, Tahoma, Helvetica, snas-serif;text-align: center;}
 .copyright a:link{color: #666666;}
 .copyright a:visited{color: #666666;}
+/*sort-icon*/
+.sort-icon{background: url(http://assets.dxycdn.com/app/bbs/img/rank_moderator/bg.gif) right center no-repeat;cursor: pointer;}
+.sort-icon-desc{background: url(http://assets.dxycdn.com/app/bbs/img/rank_moderator/desc.gif) right center no-repeat;cursor: pointer;}
+.sort-icon-asc{background: url(http://assets.dxycdn.com/app/bbs/img/rank_moderator/asc.gif) right center no-repeat;cursor: pointer;}
